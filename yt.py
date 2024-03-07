@@ -403,7 +403,7 @@ $$ | \$$ |$$ |         $$ |
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
   \033[1;32mAuther  : NPY  TRICKER
   \033[1;33mYouTube : NPY  TRICKER
-  \033[1;32mFecbook : NPY  TRICKER
+  \033[1;32mFecbook : SHIV SINGH
    \033[1;33m Admin. : NPY  TRICKER
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
@@ -1337,13 +1337,13 @@ def Subscraption():
 		print(logo)
 		print ("")
 		print(" \033[1;32m NPY  Toll Free BUT You Need Get Approved First\033[1;37m\n")
-		print(" \033[1;32m Note : NPY  FREE HA BHAIYO ENJOYA   \033[1;37m")
+		print(" \033[1;32m Note : NPY  PAID HA BHAIYO ENJOYA   \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
 		print(" Copy And Send Key To Admin")
 		print ("")
-		print (" Your Key : "+ak+ah+key1 )
+		print (" Your Key : "+sk+ks+key2 )
 		print ("")
 		name = input(" Your Name : ")
 		print ("")
